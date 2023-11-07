@@ -1,0 +1,5 @@
+elasticsearch==8.10.1
+fastapi==0.104.1
+pre-commit==3.5.0
+pydantic-settings==2.0.3
+uvicorn==0.23.2
